@@ -1,6 +1,4 @@
-# ShelfSync-Bookshelf-App
-
-# 📚 Bookshelf App
+# 📚 ShelfSync-Bookshelf-App
 
 ## 📖 Overview
 Bookshelf App adalah aplikasi berbasis web untuk mengelola daftar buku yang sudah dan belum dibaca. Aplikasi ini menggunakan **HTML, CSS, dan JavaScript**, serta menyimpan data secara **permanen dengan localStorage** untuk memastikan buku yang telah ditambahkan tetap tersedia meskipun halaman diperbarui atau ditutup.
