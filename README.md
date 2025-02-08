@@ -16,7 +16,7 @@ Bookshelf App adalah aplikasi berbasis web untuk mengelola daftar buku yang suda
 - **Storage**: localStorage
 
 ## 📸 Screenshots
-![Bookshelf App Screenshot](https://via.placeholder.com/800x400)
+![Bookshelf App Screenshot](Assets/Screenshot 2025-02-08 151857.png)
 
 ## 🏗️ Project Structure
 ```
