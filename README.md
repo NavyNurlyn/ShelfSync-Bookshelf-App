@@ -17,13 +17,14 @@ Bookshelf App adalah aplikasi berbasis web untuk mengelola daftar buku yang suda
 
 ## 📸 Screenshots
 ![Bookshelf App Screenshot](Assets/SS1.png)
+![Bookshelf App Screenshot](Assets/SS2.png)
 
 ## 🏗️ Project Structure
 ```
 bookshelf-app/
 │── index.html      # Halaman utama aplikasi
 │── style.css       # File gaya untuk tampilan UI
-│── script.js       # Logika aplikasi
+│── main.js       # Logika aplikasi
 │── README.md       # Dokumentasi proyek
 ```
 
